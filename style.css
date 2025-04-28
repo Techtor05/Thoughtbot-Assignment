@@ -1,2 +1,30 @@
-a{color: #f2f259;}
-h3{color:#f2f259 ;}
+*{ 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    margin: 150px 150px 50px;
+}
+.author{
+    color: rgb(2, 141, 0);
+    text-decoration: none;
+}
+
+a{
+    /* color: rgb(2, 2, 255); */
+    color: rgb(19, 211, 201);
+    text-decoration: none;
+}
+.button{
+    text-decoration: none;
+    margin: 5px;
+    border: 1px solid rgb(19, 211, 201);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(19, 211, 201);
+}
+h1{
+    color: slategrey;
+}
